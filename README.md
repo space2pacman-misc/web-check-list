@@ -61,3 +61,11 @@ React.js Быстрый старты / Стефанов С. / 2017
 [JavaScript Puzzlers!](http://javascript-puzzlers.herokuapp.com/)
 
 [WTFJS](https://wtfjs.com/)
+
+## Блоги
+
+[CSS-Live](http://css-live.ru/)
+
+## Инструменты
+
+[Trello](http://trello.com)
