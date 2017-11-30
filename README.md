@@ -71,3 +71,9 @@ React.js Быстрый старты / Стефанов С. / 2017
 ## Инструменты
 
 [Trello](http://trello.com)
+
+## Курсы
+
+[Stepik](https://stepik.org/)
+
+[SoloLearn](https://www.sololearn.com/)
