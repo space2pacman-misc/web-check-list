@@ -55,3 +55,9 @@ React.js Быстрый старты / Стефанов С. / 2017
 [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 
 [Awesome](https://github.com/sindresorhus/awesome)
+
+[Основы JavaScript](https://learn.javascript.ru/first-steps)
+
+[JavaScript Puzzlers!](http://javascript-puzzlers.herokuapp.com/)
+
+[WTFJS](https://wtfjs.com/)
