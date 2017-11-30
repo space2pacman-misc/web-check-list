@@ -3,6 +3,7 @@
 ## Книги
 #### Разработка
 Git для профессионального программиста / С. Чакон, Б. Штрауб / 2016
+
 JavaScript подробное руководство 6-е издание / Дэвид Флэнаган / 2012
 
 JavaScript. Шаблоны / Стоян Стефанов / 2011
@@ -34,5 +35,7 @@ React.js Быстрый старты / Стефанов С. / 2017
 ## Видео
 #### Java Script
 [Vue.js с нуля](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
+
 [Основы JavaScript](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+
 [Основы объектно-ориентированного програмирования](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
