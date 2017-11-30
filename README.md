@@ -1,7 +1,7 @@
 # front-end-check-list
 
 ## Книги
-#### Разработка
+
 Git для профессионального программиста / С. Чакон, Б. Штрауб / 2016
 
 JavaScript подробное руководство 6-е издание / Дэвид Флэнаган / 2012
@@ -33,9 +33,21 @@ React.js Быстрый старты / Стефанов С. / 2017
 Приемы объектно-ориентированного проектирования. Паттерны проектирования / Гамма Э., Хелм Р., Джонсон Р., Влиссидес Дж. / 2016
 
 ## Видео
-#### Java Script
+
 [Vue.js с нуля](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
 
 [Основы JavaScript](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 
 [Основы объектно-ориентированного програмирования](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
+
+[Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/playlist?list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
+
+## Ссылки
+
+[Love Frontend](https://vk.com/love_frontend)
+
+[Front-End Checklist](https://github.com/ungear/Front-End-Checklist)
+
+[YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
+
+[Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
