@@ -62,6 +62,8 @@ React.js Быстрый старты / Стефанов С. / 2017
 
 [WTFJS](https://wtfjs.com/)
 
+[Call to idea](http://www.calltoidea.com/)
+
 ## Блоги
 
 [CSS-Live](http://css-live.ru/)
