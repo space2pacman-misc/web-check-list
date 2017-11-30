@@ -64,6 +64,8 @@ React.js Быстрый старты / Стефанов С. / 2017
 
 [Call to idea](http://www.calltoidea.com/)
 
+[Liveedu](https://www.liveedu.tv/)
+
 ## Блоги
 
 [CSS-Live](http://css-live.ru/)
