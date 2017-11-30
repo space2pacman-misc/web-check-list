@@ -36,6 +36,8 @@ React.js Быстрый старты / Стефанов С. / 2017
 
 [Vue.js с нуля](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
 
+[Уроки Vue.js для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum)
+
 [Основы JavaScript](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 
 [Основы объектно-ориентированного програмирования](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
@@ -51,3 +53,5 @@ React.js Быстрый старты / Стефанов С. / 2017
 [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
 
 [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+
+[Awesome](https://github.com/sindresorhus/awesome)
