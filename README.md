@@ -66,7 +66,7 @@ React.js Быстрый старты / Стефанов С. / 2017
 
 [Liveedu](https://www.liveedu.tv/)
 
-[javascript30](https://javascript30.com/]
+[javascript30](https://javascript30.com/)
 
 ## Блоги
 
