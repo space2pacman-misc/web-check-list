@@ -75,8 +75,11 @@ React.js Быстрый старты / Стефанов С. / 2017
 ## Инструменты
 
 [Trello](http://trello.com)
+
 [CSS Helper](https://lesson-web.ru/modules/css_helper)
+
 [PerfectPixel](http://www.welldonecode.com/perfectpixel/)
+
 [Full page scree capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 
 ## Курсы
