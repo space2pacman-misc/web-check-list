@@ -107,3 +107,13 @@ JavaScript для детей / Ник Морган / 2016
 [Stepik](https://stepik.org/)
 
 [SoloLearn](https://www.sololearn.com/)
+
+## Телеграм
+
+[Node.js — русскоговорящее сообщество](https://t.me/nodejs_ru)
+
+[Pro.js] (https://t.me/JSlang)
+
+[Vue.js — русскоговорящее сообщество](https://t.me/vuejs_ru)
+
+[Топ вакансии для веб-разработчиков](https://t.me/webWork)
