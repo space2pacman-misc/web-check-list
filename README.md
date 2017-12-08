@@ -117,3 +117,9 @@ JavaScript для детей / Ник Морган / 2016
 [Vue.js — русскоговорящее сообщество](https://t.me/vuejs_ru)
 
 [Топ вакансии для веб-разработчиков](https://t.me/webWork)
+
+## Фотостоки
+
+[Pixabay](https://pixabay.com)
+
+[Unsplash](https://unsplash.com)
