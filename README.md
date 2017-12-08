@@ -112,7 +112,7 @@ JavaScript для детей / Ник Морган / 2016
 
 [Node.js — русскоговорящее сообщество](https://t.me/nodejs_ru)
 
-[Pro.js] (https://t.me/JSlang)
+[Pro.js](https://t.me/JSlang)
 
 [Vue.js — русскоговорящее сообщество](https://t.me/vuejs_ru)
 
