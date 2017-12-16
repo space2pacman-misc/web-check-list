@@ -88,6 +88,10 @@ JavaScript для детей / Ник Морган / 2016
 
 [javascript30](https://javascript30.com/)
 
+[БЭМ](https://github.com/CSSSR/sputnik/blob/master/docs/CSS/Methodology/BEM.md)
+
+[ru.bem.info](http://ru.bem.info)
+
 ## Блоги
 
 [CSS-Live](http://css-live.ru/)
