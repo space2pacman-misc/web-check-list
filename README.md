@@ -94,6 +94,8 @@ JavaScript для детей / Ник Морган / 2016
 
 [Esprima](http://esprima.org/)
 
+[DevDocs](http://devdocs.io/)
+
 ## Блоги
 
 [CSS-Live](http://css-live.ru/)
