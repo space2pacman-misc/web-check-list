@@ -1,4 +1,4 @@
-# front-end-check-list
+# web-check-list
 
 ## Книги
 
@@ -75,6 +75,10 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/playlist?list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
 
 ## Ссылки
+
+[Симулятор лифта](https://play.elevatorsaga.com)
+
+[Javascript за 14 минут](https://js14min.github.io/)
 
 [Love Frontend](https://vk.com/love_frontend)
 
