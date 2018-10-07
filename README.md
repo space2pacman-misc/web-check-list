@@ -85,7 +85,8 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 [Front-End Checklist](https://github.com/ungear/Front-End-Checklist)
 
 [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
-[30 Day Vanilla JS Coding Challenge](https://javascript30.com/}
+
+[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 
 [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 
