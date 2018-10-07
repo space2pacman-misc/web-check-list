@@ -76,7 +76,7 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 ## Ссылки
 
-[Симулятор лифта](https://play.elevatorsaga.com)
+[Симулятор лифта](https://play.elevatorsaga.com) | [Перевод документации](https://cdn.rawgit.com/space2pacman-misc/elevatorsaga-translation/802cb101/index.html)
 
 [Javascript за 14 минут](https://js14min.github.io/)
 
