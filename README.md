@@ -98,6 +98,8 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 [WTFJS](https://wtfjs.com/)
 
+[metanit](https://metanit.com)
+
 [Call to idea](http://www.calltoidea.com/)
 
 [Liveedu](https://www.liveedu.tv/)
@@ -108,7 +110,7 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 [ru.bem.info](http://ru.bem.info)
 
-[Esprima](http://esprima.org/)
+[Esprima (Парсер)](http://esprima.org/)
 
 [DevDocs](http://devdocs.io/)
 
