@@ -80,6 +80,8 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 [Javascript за 14 минут](https://js14min.github.io/)
 
+[Return true to win](https://returntrue.win)
+
 [Love Frontend](https://vk.com/love_frontend)
 
 [Front-End Checklist](https://github.com/ungear/Front-End-Checklist)
