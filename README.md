@@ -82,6 +82,8 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 [Return true to win](https://returntrue.win)
 
+[Codewars](https://www.codewars.com/)
+
 [Love Frontend](https://vk.com/love_frontend)
 
 [Front-End Checklist](https://github.com/ungear/Front-End-Checklist)
