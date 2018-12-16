@@ -74,6 +74,8 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/playlist?list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
 
+[Уроки PHP 7](https://www.youtube.com/watch?v=5CPTpFit3hg&list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
+
 ## Ссылки
 
 [Симулятор лифта](https://play.elevatorsaga.com) | [Перевод документации](https://cdn.rawgit.com/space2pacman-misc/elevatorsaga-translation/802cb101/index.html)
