@@ -82,6 +82,8 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 [Javascript за 14 минут](https://js14min.github.io/)
 
+[PHP the right way](http://getjump.github.io/ru-php-the-right-way/)
+
 [Return true to win](https://returntrue.win)
 
 [Codewars](https://www.codewars.com/)
