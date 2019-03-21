@@ -86,6 +86,8 @@ HTML5 недостающее руководство / Мэтью Мак-Дона
 
 [Return true to win](https://returntrue.win)
 
+[JSON simple store](http://myjson.com/)
+
 [Codewars](https://www.codewars.com/)
 
 [Love Frontend](https://vk.com/love_frontend)
