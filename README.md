@@ -142,6 +142,8 @@ _Разное_
 
 [JSON simple store](http://myjson.com/)
 
+[OverAPI](http://overapi.com/)
+
 [Codewars](https://www.codewars.com/)
 
 [Love Frontend](https://vk.com/love_frontend)
