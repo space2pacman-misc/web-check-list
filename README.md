@@ -138,6 +138,8 @@ _Разное_
 
 [Уроки PHP 7](https://www.youtube.com/watch?v=5CPTpFit3hg&list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
 
+[Основы ES6](https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
+
 ## Ссылки
 
 [Симулятор лифта](https://play.elevatorsaga.com) | [Перевод документации](https://cdn.rawgit.com/space2pacman-misc/elevatorsaga-translation/802cb101/index.html)
